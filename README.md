@@ -1,5 +1,5 @@
 ### Hello, everyone!
-### I'm a self-training software developer; with proficiency in Python, C++ and JS. 
+### I'm Brian, a self-training software developer; with proficiency in Python, C++ and JS. 
 
 <!--
 **BKimuma/bkimuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
