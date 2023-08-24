@@ -1,5 +1,6 @@
 ### Hello, everyone!
 ### I'm Brian, a self-training software developer; with proficiency in Python, C++ and JS. 
+![bkimuma's github stats](https://github-readme-stats.vercel.app/api?username=bkimuma&show_icons=true&theme=react&hide_title=false&line_height=22pt)
 
 <!--
 **BKimuma/bkimuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
